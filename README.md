@@ -167,7 +167,9 @@ This project is released under the [MIT License](LICENSE). See `LICENSE` for det
 For questions or collaboration inquiries, please reach out to:
 
 - **Tianyu Chen** — [chenty12024@shanghaitech.edu.cn](mailto:chenty12024@shanghaitech.edu.cn)
-- **Wenjie Wang** (Corresponding Author) — [wangwj1@shanghaitech.edu.cn](mailto:wangwj1@shanghaitech.edu.cn)
+
+You can also ask questions by opening an issue in the section.
+
 
 **Affiliations:**  
 ¹ ShanghaiTech University, Shanghai, China  
