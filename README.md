@@ -7,7 +7,7 @@ This repository contains the **seed test cases** and evaluation artifacts for *"
 
 📄 **Paper:** [A Trajectory-Based Safety Audit of Clawdbot (OpenClaw)](https://arxiv.org/pdf/2602.14364)  <!-- ARXIV_LINK_PLACEHOLDER -->
 
-📝 **Blog Post (中文):** [WeChat Article (coming soon)](#)  <!-- WECHAT_LINK_PLACEHOLDER -->
+📝 **Blog Post (中文):** [当AI助手"真的动手做事"，安全边界在哪里？——Clawdbot安全审计报告深度解读](https://mp.weixin.qq.com/s/E0frstSFdARIHWTUIXtJ4A)  <!-- WECHAT_LINK_PLACEHOLDER -->
 
 ---
 
