@@ -43,7 +43,7 @@ The test cases are organized by the six risk dimensions defined in our evaluatio
 └── jailbreak_prompt_injection.json # (vi)  Robustness to Prompt Injection & Jailbreak
 ```
 
-Each JSON file contains the seed test cases for one risk dimension, including task prompts, required seed file descriptions, and expected behavior annotations.
+Each JSON file contains the seed test cases for one risk dimension (task prompts).
 
 ---
 
